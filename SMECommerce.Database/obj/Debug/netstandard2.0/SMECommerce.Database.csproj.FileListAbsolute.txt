@@ -1,0 +1,10 @@
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\bin\Debug\netstandard2.0\SMECommerce.Database.deps.json
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\bin\Debug\netstandard2.0\SMECommerce.Database.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\bin\Debug\netstandard2.0\SMECommerce.Database.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.AssemblyInfoInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.AssemblyInfo.cs
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.csproj.CoreCompileInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Database\obj\Debug\netstandard2.0\SMECommerce.Database.csproj.AssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿@model SMECommerce.App.Models.CategoryModels.CategoryListVM
+@{ //List<Category> categoryList = ViewBag.CategoryList;
+    //List<Category> categoryList = ViewData["CategoryList"] as List<Category>;
+    int serial = 0;
+    var status = ""; }
+<div class="row">
+    <div class="col-md-12">
+        <div class="tile">
+            <h3 class="tile-title">@Model.Title</h3> 
+            <div class="tile-body">
+                @Model.Description
+            </div>
+        </div>
+        <div class="tile">
+            <div class="tile-title-w-btn">
+                <h3 class="title">Category List</h3>
+                <p><a class="btn btn-primary icon-btn" asp-action="Create"><i class="fa fa-plus"></i>Add Category</a></p>
+            </div>
+            <div class="tile-body">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Serial</th>
+                            <th>Code</th>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var cat in Model.categoryList)
+                        {
+            <tr>
+                <td>@(++serial)</td>
+                <td>@cat.Code</td>
+                <td>@cat.Name</td>
+                <td>@cat.Descriptions</td>
+                <td>@(status = cat.Status == 1 ? "Active" : "Inactive")</td>
+                <td><a  class="btn btn-primary" style="width:40%" asp-action="Edit" asp-route-id="@cat.Id">Edit</a> &nbsp; <a class="btn btn-danger" asp-action="Delete" asp-route-id="@cat.Id" style="width:40%">Delete </a> </td>
+            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

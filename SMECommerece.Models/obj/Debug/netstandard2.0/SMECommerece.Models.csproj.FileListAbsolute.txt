@@ -1,0 +1,10 @@
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.AssemblyInfoInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.AssemblyInfo.cs
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.csproj.CoreCompileInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\bin\Debug\netstandard2.0\SMECommerece.Models.deps.json
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\bin\Debug\netstandard2.0\SMECommerece.Models.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\bin\Debug\netstandard2.0\SMECommerece.Models.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerece.Models\obj\Debug\netstandard2.0\SMECommerece.Models.csproj.AssemblyReference.cache

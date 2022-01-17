@@ -1,0 +1,45 @@
+﻿@model SMECommerce.App.Models.ItemModels.ItemDetailsVM
+<div class="row">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="tile">
+                    <div class="tile-title-w-btn">
+                        <h3 class="title-title">Item Details</h3>
+                        <p><a class="btn btn-primary icon-btn" asp-action="ItemList"><i class="fa fa-toggle-left"></i>Back</a></p>
+                    </div>
+                    <div class="tile-body">
+                        <div class="form-group">
+                            <span class="control-label">Code:</span>&nbsp;<span class="control-label">@Model.Code</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Name:</span>&nbsp;<span class="control-label">@Model.Name</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Category:</span>&nbsp;<span class="control-label">@Model.CategoryId</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Brand:</span>&nbsp;<span class="control-label">@Model.BrandId</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Manufacture Date:</span>&nbsp;<span class="control-label">@Model.ManufactureDate.ToString("dd-MM-yyyy")</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Price:</span>&nbsp;<span class="control-label">@Model.Price</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="control-label">Description:</span>&nbsp;<span class="control-label">@Model.Description</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="tile">                    
+                    <div class="tile-body" style="text-align:center;">
+                        <img src="~/Image/Item/@Model.ImageName" class="responsive" />
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>

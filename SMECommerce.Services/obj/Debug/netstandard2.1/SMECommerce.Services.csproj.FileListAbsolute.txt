@@ -1,0 +1,17 @@
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.deps.json
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Services.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Database.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerece.Models.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerece.Models.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\bin\Debug\netstandard2.1\SMECommerce.Database.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.AssemblyReference.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfoInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.AssemblyInfo.cs
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.CoreCompileInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.csproj.CopyComplete
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Services\obj\Debug\netstandard2.1\SMECommerce.Services.pdb

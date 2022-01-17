@@ -1,0 +1,15 @@
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.deps.json
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Repositories.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Database.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerece.Models.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerce.Database.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\bin\Debug\netstandard2.1\SMECommerece.Models.pdb
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.AssemblyReference.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfoInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.AssemblyInfo.cs
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CoreCompileInputs.cache
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.csproj.CopyComplete
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.dll
+D:\Asp.net Core\My_Practice\4.Practice\SMECommerce.App\SMECommerce.Repositories\obj\Debug\netstandard2.1\SMECommerce.Repositories.pdb

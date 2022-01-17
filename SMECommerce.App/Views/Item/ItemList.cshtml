@@ -1,0 +1,59 @@
+﻿@model SMECommerce.App.Models.ItemModels.ItemListVM
+@{  
+    int serial = 0;
+    var status = ""; }
+<div class="row">
+    <div class="col-md-12">
+        <div class="tile">
+            <h3 class="tile-title">@Model.Title</h3>
+            <div class="tile-body">
+                @Model.Description
+            </div>
+        </div>
+        <div class="tile">
+            <div class="tile-title-w-btn">
+                <h3 class="title">Item List</h3>
+                <p><a class="btn btn-primary icon-btn" asp-action="Create"><i class="fa fa-plus"></i>Add Item</a></p>
+            </div>
+            <div class="tile-body">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Serial</th>
+                            <th>Image</th>
+                            <th>Code</th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Brand</th>
+                            <th>Description</th>
+                            <th>Manufacture Date</th>
+                            <th>Price</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.itemList != null)
+                        {
+                        @foreach (var itm in Model.itemList)
+                        {
+                        <tr>
+                            <td style="vertical-align: middle;text-align:center;">@(++serial)</td>
+                            <td style="vertical-align: middle;text-align:center;"><img src="~/Image/Item/@itm.ImageName" width="50" height="50" class="rounded-circle" /></td>
+                            <td style="vertical-align: middle;">@itm.Code</td>
+                            <td style="vertical-align: middle;">@itm.Name</td>
+                            <td style="vertical-align: middle;">@itm.Category.Name</td>
+                            <td style="vertical-align: middle;">@itm.Brand.Name</td>
+                            <td style="vertical-align: middle;">@itm.Description</td>
+                            <td style="vertical-align: middle;">@itm.ManufactureDate</td>
+                            <td style="vertical-align: middle; text-align:right;">@itm.Price</td>
+                            <td style="vertical-align: middle;">@(status = itm.Status == 1 ? "Active" : "Inactive")</td>
+                            <td style="vertical-align: middle; width:200px;"><a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@itm.Id">Details</a> &nbsp;<a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@itm.Id">Edit</a> &nbsp; <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@itm.Id">Delete</a> </td>
+                        </tr>}
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
